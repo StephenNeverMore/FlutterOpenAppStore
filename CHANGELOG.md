@@ -3,12 +3,7 @@
 * open AppStore or GooglePlay
 
 
-## 0.0.2
+## 0.0.4
 
 * SWIFT VERSION
 
-
-
-## 0.0.3
-
-* SWIFT VERSION

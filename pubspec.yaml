@@ -1,6 +1,6 @@
 name: flutter_open_app_store
 description: A Flutter plugin for open AppStore or GooglePlay.
-version: 0.0.3
+version: 0.0.4
 author: StephenNeverMore <stephen0zhu@gmail.com>
 homepage: https://github.com/StephenNeverMore
 
